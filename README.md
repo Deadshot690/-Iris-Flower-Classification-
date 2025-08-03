@@ -49,12 +49,3 @@ See requirements.txt for all libraries.
 
 Made with 💐 and Python by a friendly intern.
 
-# Iris Flower ClassificationTips:**
-
-Avoid putting your main title at the bottom.
-
-Use horizontal lines --- for clear separation.
-
-Add usage instructions step-by-step.
-
-Include emojis for a friendly and creative tone, but keep them tidy and not in headers.
